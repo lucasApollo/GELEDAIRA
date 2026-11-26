@@ -1,0 +1,53 @@
+header{
+    background-color: rgb(228, 231, 233);
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 8%;
+    display: flex;
+}
+
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botao_header{
+    padding: 15px;
+    background-color: rgb(201, 201, 201);
+    border-radius: 20px;
+    border: none;
+    font-size: medium;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+.botao_aura{
+    padding: 15px;
+    transform: translate(805%);
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(201, 201, 201);
+    font-size: medium;
+}
+
+.imagens{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+img{
+    width: 400px!important;
+    height: 300px!important;
+    border: solid black ;
+    padding: 10px;
+    background-color: black;
+    border-radius: 20px;
+    margin: 20px;
+
+    
+}
+
